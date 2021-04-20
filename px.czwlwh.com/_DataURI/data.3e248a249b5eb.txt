@@ -1,0 +1,1 @@
+chrome-extension://haagifdfgnhhibgfcgmkjgjmefmpjjdm/sites/all.js

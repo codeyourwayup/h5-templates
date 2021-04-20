@@ -1,0 +1,1 @@
+chrome-extension://enaakdjfdcpknpeofoejpefkbappodcf/js/libs/chance.min.js
